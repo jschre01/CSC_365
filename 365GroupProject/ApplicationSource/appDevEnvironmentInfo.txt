@@ -1,0 +1,4 @@
+This directory stores the complete project environment workspace to run the application.
+
+This application is expected to be ran in an IntelliJ environment that
+has a Java 11+ SDK installed alongside a JavaFX SDK.

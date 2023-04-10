@@ -1,0 +1,5 @@
+Connection Method: TCP/IP
+Hostname: ambari-node5.csc.calpoly.edu
+Port: 3306
+Username: arwj93
+Password: pass123
